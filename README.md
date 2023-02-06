@@ -353,12 +353,15 @@ SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
 VL?
 
+La frecuencia es de: 15 KHz
 
 SECCIÓN 16–2 Impedancia de circuitos RL en serie 
 
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
 ![image](https://user-images.githubusercontent.com/117781491/216859945-f39ff112-7e48-4100-a0c9-1fa52e121ac4.png)
+
+![image](https://user-images.githubusercontent.com/117781491/216872689-458ef153-4965-45d3-8167-cfd12ca407df.png)
 
 
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
@@ -370,11 +373,14 @@ SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/117781491/216859978-55a173be-d180-489e-8364-cf1ac7f3689a.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216872715-0938d708-a79d-4caa-8b61-646e89dcec35.png)
+
 
 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
 
 ![image](https://user-images.githubusercontent.com/117781491/216860243-88fa3e81-7e58-4c9e-8c62-ea7e5f072b76.png)
 
+Rpta: 806 ohm, 4.11 mH
 
 SECCIÓN 16–3 Análisis de circuitos RL en serie
 
@@ -383,12 +389,18 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/117781491/216860386-4d8fef1e-bfc5-41c8-bd17-bf5aaa29a229.png)
 
+V= 0.307 V
+
 11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar. 
 
 ![image](https://user-images.githubusercontent.com/117781491/216860420-6abd1ced-85aa-466a-95da-423ecea2f6f5.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216872869-22b8e111-978e-4e69-9d47-d88df573f306.png)
+
+
 13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
 
+![image](https://user-images.githubusercontent.com/117781491/216872898-5624e442-e92c-41ff-a272-c1e87a9cdaf1.png)
 
 
 15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
@@ -403,6 +415,8 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/117781491/216860491-9f987f87-8ad6-42cb-beba-f100faaf48ef.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216872924-e311f5eb-ebdf-48cc-8884-875575e5f282.png)
+
 
 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
 
@@ -416,6 +430,9 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/117781491/216860581-52944ba7-c690-429b-b4ba-6dc5972de185.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216872960-03f87bd3-8a77-4cbb-90ab-da6fdcdb7c0c.png)
+
+
 PARTE 2 CIRCUITOS EN PARALELO
 
 SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
@@ -424,11 +441,13 @@ SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 
 ![image](https://user-images.githubusercontent.com/117781491/216860625-de9f4714-4816-4443-9813-9dff8db2ff10.png)
 
+Rpta: 7.75∠49.9° ohms
 
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/117781491/216860650-caae3628-bc27-4f14-b65a-49d36dbe8f30.png)
 
+Rpta: 2.39 kHz
 
 SECCIÓN 16–5 Análisis de circuitos RL en paralelo
 
@@ -436,11 +455,15 @@ SECCIÓN 16–5 Análisis de circuitos RL en paralelo
 
 ![image](https://user-images.githubusercontent.com/117781491/216860721-fe8d33ea-7b68-4225-9d45-6bd0648043a9.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216873104-d23cd5bb-8b7d-45e3-9317-264dc5be9b8b.png)
+
 
 25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie. 
 
 ![image](https://user-images.githubusercontent.com/117781491/216860782-d4aa14de-458d-4cf2-a0d8-67233f35c00a.png)
 
+El resistor de 1.83 omh en serie con la reactancia inductiva de
+4.21 kohm
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
@@ -451,12 +474,15 @@ el diagrama fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/117781491/216860818-63a54b64-1bad-4fd6-a1f0-20a9a2b07f5f.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216873173-2bc4fbc2-c854-4373-8518-36fcc236a9b3.png)
+
 
 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar.
 Trace el diagrama fasorial de la corriente.
 
 ![image](https://user-images.githubusercontent.com/117781491/216860882-b8f08d52-9dae-46e2-be9d-d3bc3569dfc4.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216873211-018f27f1-5fa0-4d46-8981-4bf4d4e78a1b.png)
 
 
 *31. Para el circuito de la figura 16-70, determine lo siguiente:
@@ -465,6 +491,7 @@ Trace el diagrama fasorial de la corriente.
 
 ![image](https://user-images.githubusercontent.com/117781491/216860922-753442df-11dc-4bcd-b80a-83431c9bc844.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216873238-34cdf38a-4a3a-4678-8d42-10c0bf4665e7.png)
 
 
 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
@@ -472,10 +499,13 @@ salida en el circuito de la figura 16-71
 
 ![image](https://user-images.githubusercontent.com/117781491/216861032-a658f8cb-4506-4eac-bd7b-e3baf917f965.png)
 
+ θ=52.5 (Vsal retrasado con respecto a Vent), 0.143
 
 35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con
 una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra.
 El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![image](https://user-images.githubusercontent.com/117781491/216874642-17402c22-1bf9-438d-8d0c-3adb08014f6a.png)
 
 
 PARTE 4: TEMAS ESPECIALES
@@ -486,12 +516,13 @@ SECCIÓN 16–7 Potencia en circuitos RL
 
 ![image](https://user-images.githubusercontent.com/117781491/216861313-64977958-0ec9-42fc-b933-9f49568628a1.png)
 
-
+Rpta: 1.29 W, 1.04 VAR
 
 39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia
 
 ![image](https://user-images.githubusercontent.com/117781491/216861298-3b82cf8f-0f0f-4120-a681-0ce75b04dbba.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216873575-0e28972c-412d-4960-9bb7-d7672479a700.png)
 
 
 SECCIÓN 16–8 Aplicaciones básicas
@@ -500,12 +531,15 @@ SECCIÓN 16–8 Aplicaciones básicas
 
 ![image](https://user-images.githubusercontent.com/117781491/216861395-54a11a9b-ab3d-4ef5-9027-fa99e04719ad.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216873693-53eb7db6-edb8-468d-93f8-a1970f43f56d.png)
+
 
 43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
 de 8 kHz.
 
 ![image](https://user-images.githubusercontent.com/117781491/216861483-564039c1-4de2-4829-a0e9-ace7846f5957.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216873925-c5e38098-c9f9-476d-984c-b9ee2e8f5d62.png)
 
 
 45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
@@ -520,6 +554,7 @@ de 8 kHz.
 
 ![image](https://user-images.githubusercontent.com/117781491/216861587-569a912d-5dcf-43e6-891f-f7d6aab0923c.png)
 
+![image](https://user-images.githubusercontent.com/117781491/216874145-30eb0e05-d40c-4e14-bf07-359ea917c4fa.png)
 
 
 
@@ -554,131 +589,5 @@ https://youtu.be/A-rcZ7jGDe4
 6. BIBLIOGRAFÍA
 
 - Floyd, TL (2007). Principios de Circuitos Eléctricos. México: Pearson Educación.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
